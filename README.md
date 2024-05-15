@@ -50,3 +50,5 @@ From the terminal, navigate to the <tt>src</tt> directory and run the following:
 ```sh
 python app.py
 ```
+
+The output should be the same as that shown <a href="https://github.com/andrewcockerill/springboard_07_data_pipeline/blob/main/src/app_run.txt">here</a>.
